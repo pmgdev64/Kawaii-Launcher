@@ -1,5 +1,5 @@
 package vn.pmgdev.launcher;
 
-import vn.pmgdev.config.GraphicConfig;
+import vn.pmgdev.config.AppConfig;
 
-public class LauncherConfig extends GraphicConfig {}
+public class LauncherConfig extends AppConfig {}
