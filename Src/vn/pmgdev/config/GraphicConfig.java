@@ -1,3 +1,3 @@
 package vn.pmgdev.Config;
 
-public abstract class InGameConfig {}
+public abstract class GraphicConfig {}
