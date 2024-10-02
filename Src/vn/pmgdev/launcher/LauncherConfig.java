@@ -1,5 +1,5 @@
 package vn.pmgdev.launcher;
 
-import vn.pmgdev.Config.InGameConfig;
+import vn.pmgdev.config.GraphicConfig;
 
-public class LauncherConfig extends InGameConfig {}
+public class LauncherConfig extends GraphicConfig {}
